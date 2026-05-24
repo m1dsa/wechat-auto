@@ -1,0 +1,8 @@
+interface:
+  display_name: "Wechat Auto"
+  short_description: "公众号自动写作流程"
+  brand_color: "#07C160"
+  default_prompt: "Use $wechat-auto to plan, write, or format a WeChat public account article."
+
+policy:
+  allow_implicit_invocation: true
