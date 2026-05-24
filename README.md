@@ -28,7 +28,7 @@ wechat-auto/
 
 ## 使用方式
 
-把 `skills/wechat-auto` 安装到 Codex 的 skills 目录后，可以用下面这些方式触发：
+把 `skills/wechat-auto` 安装到 claude 的 skills 目录后，可以用下面这些方式触发：
 
 - `/wechat-auto`
 - `/公众号写作`
@@ -47,3 +47,6 @@ wechat-auto/
 ## 许可证
 
 MIT License
+
+## 特别提醒
+第二步内容诊断截取的db.skill
